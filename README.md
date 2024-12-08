@@ -1,4 +1,4 @@
- step 1: you can download the file.
+ step 1: you can download a zip file.
  step 2: you will open the folder in vs code.
  step 3: you will open the new terminal in vs code editor.
  step 4: you have write a give command "javac BankDriver.java" then compile the program after that you will run the program.
